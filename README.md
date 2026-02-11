@@ -1,20 +1,15 @@
-## Project Title
+## GBDA Side Quest 2
 
-GBDA302 Week 2 Example 3: Platforms (AABB Collisions)
-
----
 
 ## Authors
 
-Elvis
+Elvis Maciejewski
 
 ---
 
 ## Description
 
-Adds several rectangular platforms. The blob is drawn as a noisy circle but collides using a simple axis-aligned bounding box (AABB). X and Y are resolved separately to keep behaviour predictable and teachable.
-
----
+It is a game where you can move the blob around, and I changed certain aspects such as the color, size, speed, background color, and font size to reflect sadness. 
 
 ## Learning Goals
 
@@ -26,14 +21,8 @@ Learning Goals:
 
 ---
 
-## Assets
-
-N/A
-
----
 
 ## GenAI
 
-The code was written by Dr. Karen Cochrane but she used GenAI to write the comments.
+The code was written by Elvis Maciejewski but GenAI was used for guidance.
 
----
